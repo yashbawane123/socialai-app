@@ -1,0 +1,1486 @@
+{
+  "users": [
+    {
+      "id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "created_at": "2026-05-24T18:21:02.727Z",
+      "updated_at": "2026-05-24T18:21:02.734Z",
+      "username": "sarahchen",
+      "email": "sarah@socialai.com",
+      "password_hash": "$2a$10$/nPN7Jm/EwRcj56eNmtHpe0ymmcF8O.liUQ5aitbGIKwGTHFbKkou",
+      "full_name": "Sarah Chen",
+      "bio": "Software engineer and startup founder. Building the future of AI productivity tools. 👩‍💻✨",
+      "profile_picture_url": "👩‍💻",
+      "is_verified": true,
+      "is_public": true
+    },
+    {
+      "id": "9bfb56e8-c749-4ba0-aa06-0c41613ec789",
+      "created_at": "2026-05-24T18:21:02.736Z",
+      "updated_at": "2026-05-24T18:21:02.736Z",
+      "username": "devdaily",
+      "email": "devdaily@socialai.com",
+      "password_hash": "$2a$10$/nPN7Jm/EwRcj56eNmtHpe0ymmcF8O.liUQ5aitbGIKwGTHFbKkou",
+      "full_name": "Dev Daily",
+      "bio": "Your daily dose of tech stack updates, web engineering blogs, and developer tools. 🔧💻",
+      "profile_picture_url": "🔧",
+      "is_verified": true,
+      "is_public": true
+    },
+    {
+      "id": "914f59d1-b609-438c-aae4-032991f512c2",
+      "created_at": "2026-05-24T18:21:02.737Z",
+      "updated_at": "2026-05-24T18:21:02.737Z",
+      "username": "alexrivera",
+      "email": "alex@socialai.com",
+      "password_hash": "$2a$10$/nPN7Jm/EwRcj56eNmtHpe0ymmcF8O.liUQ5aitbGIKwGTHFbKkou",
+      "full_name": "Alex Rivera",
+      "bio": "UI/UX Lead designer. Passionate about glassmorphism, visual hierarchies, and sleek design systems. 🎨🌈",
+      "profile_picture_url": "🎨",
+      "is_verified": false,
+      "is_public": true
+    },
+    {
+      "id": "39d670f5-5139-4a57-b2fd-c6fb3e037306",
+      "created_at": "2026-05-24T18:21:02.739Z",
+      "updated_at": "2026-05-24T18:21:02.739Z",
+      "username": "marcuslee",
+      "email": "marcus@socialai.com",
+      "password_hash": "$2a$10$/nPN7Jm/EwRcj56eNmtHpe0ymmcF8O.liUQ5aitbGIKwGTHFbKkou",
+      "full_name": "Marcus Lee",
+      "bio": "Growth Hacker & B2B networking strategist. Scaling SaaS products to $10M+ ARR. 🎯🔥",
+      "profile_picture_url": "🎯",
+      "is_verified": true,
+      "is_public": true
+    },
+    {
+      "id": "29bc93d8-949b-4c31-9285-39a77c72ef42",
+      "created_at": "2026-05-24T18:21:02.740Z",
+      "updated_at": "2026-05-24T18:21:02.740Z",
+      "username": "emmawilson",
+      "email": "emma@socialai.com",
+      "password_hash": "$2a$10$/nPN7Jm/EwRcj56eNmtHpe0ymmcF8O.liUQ5aitbGIKwGTHFbKkou",
+      "full_name": "Emma Wilson",
+      "bio": "Data Scientist. Researching neural models, LLM prompts, and hybrid collaborative filters. 👩‍🔬📊",
+      "profile_picture_url": "👩‍🔬",
+      "is_verified": false,
+      "is_public": true
+    }
+  ],
+  "posts": [
+    {
+      "id": "14f1e0fd-1b24-40aa-b405-1a96d1e51dbc",
+      "created_at": "2026-05-24T16:21:02.750Z",
+      "updated_at": "2026-05-24T18:21:02.750Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "content": "Just launched my new AI-powered productivity tool! The response has been amazing 🚀 Check it out and let me know your thoughts on our layout!",
+      "image_urls": [],
+      "visibility": "public",
+      "likes_count": 0,
+      "comments_count": 0,
+      "shares_count": 14,
+      "content_category": "Product Launch",
+      "ai_generated_summary": "Product launch announcement",
+      "is_flagged": false
+    },
+    {
+      "id": "a5052499-8e77-420f-866b-ee2e7b7ef460",
+      "created_at": "2026-05-24T14:21:02.752Z",
+      "updated_at": "2026-05-24T18:21:02.752Z",
+      "user_id": "9bfb56e8-c749-4ba0-aa06-0c41613ec789",
+      "content": "The future of web development: No more JavaScript? 🤔 WebAssembly is coming in hot, powered by Rust compiling directly to fast CPU instructions. What are your plans for Wasm adoption?",
+      "image_urls": [],
+      "visibility": "public",
+      "likes_count": 0,
+      "comments_count": 0,
+      "shares_count": 48,
+      "content_category": "Software Engineering",
+      "ai_generated_summary": "Tech discussion about WebAssembly",
+      "is_flagged": false
+    },
+    {
+      "id": "8f8da675-af0a-4081-9fae-9f65968cda62",
+      "created_at": "2026-05-24T12:21:02.753Z",
+      "updated_at": "2026-05-24T18:21:02.753Z",
+      "user_id": "914f59d1-b609-438c-aae4-032991f512c2",
+      "content": "Finally finished my design system. 2 months of work but it was worth every second! Supporting dynamic dark modes, sleek neon gradient highlights, and a clean glassmorphism theme. 💅🎨 #DesignSystem #WebDesign",
+      "image_urls": [],
+      "visibility": "public",
+      "likes_count": 0,
+      "comments_count": 0,
+      "shares_count": 8,
+      "content_category": "UI/UX Design",
+      "ai_generated_summary": "Design project completion",
+      "is_flagged": false
+    },
+    {
+      "id": "d163f68e-2f68-4af6-af63-bc214982d310",
+      "created_at": "2026-06-01T05:31:08.412Z",
+      "updated_at": "2026-06-01T05:31:08.412Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "content": "create a supreman \n",
+      "image_urls": [],
+      "visibility": "public",
+      "likes_count": 0,
+      "comments_count": 0,
+      "shares_count": 0,
+      "content_category": "Technology",
+      "ai_generated_summary": "Technology announcement",
+      "is_flagged": false
+    },
+    {
+      "id": "a9a05b82-50cb-4efe-a025-40f1c9d56b6b",
+      "created_at": "2026-06-01T05:39:19.502Z",
+      "updated_at": "2026-06-01T05:39:19.502Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "content": "god is greate ",
+      "image_urls": [],
+      "visibility": "public",
+      "likes_count": 0,
+      "comments_count": 0,
+      "shares_count": 0,
+      "content_category": "Technology",
+      "ai_generated_summary": "Technology announcement",
+      "is_flagged": false
+    },
+    {
+      "id": "2a19028a-6c07-4806-9b05-82c6a439c875",
+      "created_at": "2026-06-05T06:02:51.213Z",
+      "updated_at": "2026-06-05T06:02:51.213Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "content": "nature look",
+      "image_urls": [
+        "http://localhost:5000/uploads/photo-1780639371196-186b7d80db41.jpeg"
+      ],
+      "visibility": "public",
+      "likes_count": 0,
+      "comments_count": 0,
+      "shares_count": 0,
+      "content_category": "Technology",
+      "ai_generated_summary": "Technology announcement",
+      "is_flagged": false
+    }
+  ],
+  "comments": [
+    {
+      "id": "2c718ac9-4ce6-437c-a04e-2009c010479e",
+      "created_at": "2026-05-24T16:51:02.760Z",
+      "updated_at": "2026-05-24T18:21:02.760Z",
+      "post_id": "14f1e0fd-1b24-40aa-b405-1a96d1e51dbc",
+      "user_id": "9bfb56e8-c749-4ba0-aa06-0c41613ec789",
+      "content": "This looks incredibly clean Sarah! What UI framework did you use for the cards?"
+    },
+    {
+      "id": "b4f8f2ef-3947-4543-844b-8bea97a8dcde",
+      "created_at": "2026-05-24T17:21:02.763Z",
+      "updated_at": "2026-05-24T18:21:02.763Z",
+      "post_id": "14f1e0fd-1b24-40aa-b405-1a96d1e51dbc",
+      "user_id": "914f59d1-b609-438c-aae4-032991f512c2",
+      "content": "Love the layout! The glassmorphism borders and glowing animations are state of the art."
+    },
+    {
+      "id": "d979e70e-b0e9-4490-a04d-c0092e198aca",
+      "created_at": "2026-05-24T15:21:02.766Z",
+      "updated_at": "2026-05-24T18:21:02.766Z",
+      "post_id": "a5052499-8e77-420f-866b-ee2e7b7ef460",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "content": "Interesting! I think JS will still be the wrapper, but heavy computations will definitely move to Wasm compiles."
+    }
+  ],
+  "likes": [
+    {
+      "id": "505eb64e-ecae-41dc-aac6-3d98fb5c3c2d",
+      "created_at": "2026-05-24T18:21:02.754Z",
+      "updated_at": "2026-05-24T18:21:02.754Z",
+      "user_id": "9bfb56e8-c749-4ba0-aa06-0c41613ec789",
+      "post_id": "14f1e0fd-1b24-40aa-b405-1a96d1e51dbc"
+    },
+    {
+      "id": "77a04dc1-e565-46f0-a9d9-b13de263d9f3",
+      "created_at": "2026-05-24T18:21:02.755Z",
+      "updated_at": "2026-05-24T18:21:02.755Z",
+      "user_id": "914f59d1-b609-438c-aae4-032991f512c2",
+      "post_id": "14f1e0fd-1b24-40aa-b405-1a96d1e51dbc"
+    },
+    {
+      "id": "5ed319b7-07b8-4bb5-bb1c-923e8bc2d4ca",
+      "created_at": "2026-05-24T18:21:02.756Z",
+      "updated_at": "2026-05-24T18:21:02.756Z",
+      "user_id": "39d670f5-5139-4a57-b2fd-c6fb3e037306",
+      "post_id": "14f1e0fd-1b24-40aa-b405-1a96d1e51dbc"
+    },
+    {
+      "id": "1413be39-1c9a-4e26-9754-7dc7cb5e4c21",
+      "created_at": "2026-05-24T18:21:02.757Z",
+      "updated_at": "2026-05-24T18:21:02.757Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "post_id": "a5052499-8e77-420f-866b-ee2e7b7ef460"
+    },
+    {
+      "id": "27a34689-320a-45ea-a8cf-66343bfad43a",
+      "created_at": "2026-05-24T18:21:02.758Z",
+      "updated_at": "2026-05-24T18:21:02.758Z",
+      "user_id": "29bc93d8-949b-4c31-9285-39a77c72ef42",
+      "post_id": "a5052499-8e77-420f-866b-ee2e7b7ef460"
+    }
+  ],
+  "follows": [
+    {
+      "id": "9415f8ab-aa2c-4ea4-b86d-6914f69fe44a",
+      "created_at": "2026-05-24T18:21:02.742Z",
+      "updated_at": "2026-05-24T18:21:02.742Z",
+      "follower_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "following_id": "914f59d1-b609-438c-aae4-032991f512c2"
+    },
+    {
+      "id": "d4c38ca9-d039-40d0-857f-41e97532d3dc",
+      "created_at": "2026-05-24T18:21:02.745Z",
+      "updated_at": "2026-05-24T18:21:02.745Z",
+      "follower_id": "9bfb56e8-c749-4ba0-aa06-0c41613ec789",
+      "following_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44"
+    },
+    {
+      "id": "59bbdec3-1523-425d-8f64-c812689a326c",
+      "created_at": "2026-05-24T18:21:02.746Z",
+      "updated_at": "2026-05-24T18:21:02.746Z",
+      "follower_id": "914f59d1-b609-438c-aae4-032991f512c2",
+      "following_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44"
+    },
+    {
+      "id": "034283a0-fd3f-4d22-b322-421845322a2a",
+      "created_at": "2026-05-24T18:21:02.748Z",
+      "updated_at": "2026-05-24T18:21:02.748Z",
+      "follower_id": "39d670f5-5139-4a57-b2fd-c6fb3e037306",
+      "following_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44"
+    },
+    {
+      "id": "43d458ff-09ec-41c8-94c2-5d64fb0d7568",
+      "created_at": "2026-05-24T18:21:02.749Z",
+      "updated_at": "2026-05-24T18:21:02.749Z",
+      "follower_id": "29bc93d8-949b-4c31-9285-39a77c72ef42",
+      "following_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44"
+    },
+    {
+      "id": "539885d0-ed11-4a30-92da-a29cac7f9cb0",
+      "created_at": "2026-06-01T05:38:00.778Z",
+      "updated_at": "2026-06-01T05:38:00.779Z",
+      "follower_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "following_id": "9bfb56e8-c749-4ba0-aa06-0c41613ec789"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "0cbac388-95f7-409f-91c1-b3ac1d27f97f",
+      "created_at": "2026-06-01T05:38:00.781Z",
+      "updated_at": "2026-06-01T05:38:00.781Z",
+      "user_id": "9bfb56e8-c749-4ba0-aa06-0c41613ec789",
+      "from_user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "type": "follow",
+      "message": "Sarah Chen started following you.",
+      "is_read": false
+    }
+  ],
+  "ai_interactions": [
+    {
+      "id": "1099ece9-695a-4552-b0fc-6517f5e27e96",
+      "created_at": "2026-05-24T18:36:24.393Z",
+      "updated_at": "2026-05-24T18:36:24.393Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "recommendation",
+      "ai_response": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      }
+    },
+    {
+      "id": "20214b7e-0a03-4e72-9257-797e8092a616",
+      "created_at": "2026-05-24T18:56:18.632Z",
+      "updated_at": "2026-05-24T18:56:18.633Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "recommendation",
+      "ai_response": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      }
+    },
+    {
+      "id": "dd8b30f4-1f1a-47da-8a47-9ba3e15bcb67",
+      "created_at": "2026-05-25T04:50:54.045Z",
+      "updated_at": "2026-05-25T04:50:54.045Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "recommendation",
+      "ai_response": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      }
+    },
+    {
+      "id": "73e78f93-dd89-4fb1-840c-8239293894cb",
+      "created_at": "2026-05-25T04:58:28.605Z",
+      "updated_at": "2026-05-25T04:58:28.605Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "recommendation",
+      "ai_response": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      }
+    },
+    {
+      "id": "9e0ae1d1-6844-4631-8038-7b471a40e2cc",
+      "created_at": "2026-06-01T05:21:18.877Z",
+      "updated_at": "2026-06-01T05:21:18.877Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "recommendation",
+      "ai_response": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      }
+    },
+    {
+      "id": "75ed7904-f969-4370-91e1-f0bfb3d624ef",
+      "created_at": "2026-06-01T05:25:04.709Z",
+      "updated_at": "2026-06-01T05:25:04.709Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "smart_reply",
+      "post_id": "8f8da675-af0a-4081-9fae-9f65968cda62",
+      "ai_response": [
+        {
+          "text": "Wow, that looks extremely clean and modern. Great work! 🎨",
+          "tone": "appreciative",
+          "emoji": "❤️"
+        },
+        {
+          "text": "Two months well spent! Will you be open-sourcing the design tokens?",
+          "tone": "inquisitive",
+          "emoji": "✨"
+        },
+        {
+          "text": "This makes UI consistency so much easier. Love the glassmorphism!",
+          "tone": "enthusiastic",
+          "emoji": "🌈"
+        }
+      ]
+    },
+    {
+      "id": "419d22bd-48f2-4f4a-b825-3ba911f3bc3f",
+      "created_at": "2026-06-01T05:25:04.925Z",
+      "updated_at": "2026-06-01T05:25:04.925Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "smart_reply",
+      "post_id": "8f8da675-af0a-4081-9fae-9f65968cda62",
+      "ai_response": [
+        {
+          "text": "Wow, that looks extremely clean and modern. Great work! 🎨",
+          "tone": "appreciative",
+          "emoji": "❤️"
+        },
+        {
+          "text": "Two months well spent! Will you be open-sourcing the design tokens?",
+          "tone": "inquisitive",
+          "emoji": "✨"
+        },
+        {
+          "text": "This makes UI consistency so much easier. Love the glassmorphism!",
+          "tone": "enthusiastic",
+          "emoji": "🌈"
+        }
+      ]
+    },
+    {
+      "id": "46116a60-8187-4659-8960-ed59f77a09f4",
+      "created_at": "2026-06-01T05:29:59.467Z",
+      "updated_at": "2026-06-01T05:29:59.467Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "recommendation",
+      "ai_response": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      }
+    },
+    {
+      "id": "08be3dbf-4f27-43f8-8c8a-83d101efb8f8",
+      "created_at": "2026-06-01T05:31:08.403Z",
+      "updated_at": "2026-06-01T05:31:08.403Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "moderation",
+      "ai_response": {
+        "isSafe": true,
+        "violations": [],
+        "severity": "low",
+        "confidence": 0.96,
+        "categories": [],
+        "suggestedAction": "allow",
+        "explanation": "The content is safe, constructive, and complies with platform community standards."
+      }
+    },
+    {
+      "id": "f5da7eba-c975-456e-93a7-ad008b7db236",
+      "created_at": "2026-06-01T05:35:34.680Z",
+      "updated_at": "2026-06-01T05:35:34.680Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "recommendation",
+      "ai_response": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      }
+    },
+    {
+      "id": "159d7aa9-3532-40be-ab4e-eced6c15228b",
+      "created_at": "2026-06-01T05:39:19.498Z",
+      "updated_at": "2026-06-01T05:39:19.498Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "moderation",
+      "ai_response": {
+        "isSafe": true,
+        "violations": [],
+        "severity": "low",
+        "confidence": 0.96,
+        "categories": [],
+        "suggestedAction": "allow",
+        "explanation": "The content is safe, constructive, and complies with platform community standards."
+      }
+    },
+    {
+      "id": "f584263b-8ed4-4b0b-8841-a87cb97ab927",
+      "created_at": "2026-06-01T05:41:17.536Z",
+      "updated_at": "2026-06-01T05:41:17.536Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "recommendation",
+      "ai_response": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      }
+    },
+    {
+      "id": "0935cfa9-77fc-4938-8658-de9f052008c9",
+      "created_at": "2026-06-01T05:47:56.913Z",
+      "updated_at": "2026-06-01T05:47:56.913Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "recommendation",
+      "ai_response": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      }
+    },
+    {
+      "id": "1dca8abb-7df3-4f33-9b6f-f2252ab17ebd",
+      "created_at": "2026-06-05T06:01:42.209Z",
+      "updated_at": "2026-06-05T06:01:42.209Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "recommendation",
+      "ai_response": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      }
+    },
+    {
+      "id": "2c0e251f-fcf5-4105-93cf-37c6c8cc5cd7",
+      "created_at": "2026-06-05T06:02:51.184Z",
+      "updated_at": "2026-06-05T06:02:51.184Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "moderation",
+      "ai_response": {
+        "isSafe": true,
+        "violations": [],
+        "severity": "low",
+        "confidence": 0.96,
+        "categories": [],
+        "suggestedAction": "allow",
+        "explanation": "The content is safe, constructive, and complies with platform community standards."
+      }
+    },
+    {
+      "id": "13c7fd1f-36a8-40ff-ad42-796c645122ce",
+      "created_at": "2026-06-05T06:08:40.384Z",
+      "updated_at": "2026-06-05T06:08:40.384Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "recommendation",
+      "ai_response": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      }
+    },
+    {
+      "id": "e1284f07-161f-4d4f-b6b8-c446189bb6e9",
+      "created_at": "2026-06-05T06:15:52.189Z",
+      "updated_at": "2026-06-05T06:15:52.189Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "recommendation",
+      "ai_response": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      }
+    },
+    {
+      "id": "04b9c2f6-609e-462a-8581-0371e9ae6f7c",
+      "created_at": "2026-06-05T07:27:41.595Z",
+      "updated_at": "2026-06-05T07:27:41.595Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "recommendation",
+      "ai_response": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      }
+    },
+    {
+      "id": "23d4f9f6-98eb-4b69-9389-bab543d14c80",
+      "created_at": "2026-06-05T08:08:03.578Z",
+      "updated_at": "2026-06-05T08:08:03.578Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "recommendation",
+      "ai_response": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      }
+    },
+    {
+      "id": "310a1537-51e2-4b86-8113-a48436c976d0",
+      "created_at": "2026-06-07T15:33:51.122Z",
+      "updated_at": "2026-06-07T15:33:51.122Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "recommendation",
+      "ai_response": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      }
+    },
+    {
+      "id": "d7566338-0dfc-4f09-9758-04fab571214f",
+      "created_at": "2026-06-07T15:42:24.625Z",
+      "updated_at": "2026-06-07T15:42:24.625Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "recommendation",
+      "ai_response": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      }
+    },
+    {
+      "id": "e2a5beca-62bc-47e1-bb30-ed4c7568dc47",
+      "created_at": "2026-06-07T15:44:35.754Z",
+      "updated_at": "2026-06-07T15:44:35.755Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "smart_reply",
+      "post_id": "8f8da675-af0a-4081-9fae-9f65968cda62",
+      "ai_response": [
+        {
+          "text": "Wow, that looks extremely clean and modern. Great work! 🎨",
+          "tone": "appreciative",
+          "emoji": "❤️"
+        },
+        {
+          "text": "Two months well spent! Will you be open-sourcing the design tokens?",
+          "tone": "inquisitive",
+          "emoji": "✨"
+        },
+        {
+          "text": "This makes UI consistency so much easier. Love the glassmorphism!",
+          "tone": "enthusiastic",
+          "emoji": "🌈"
+        }
+      ]
+    },
+    {
+      "id": "96b404db-c4a2-4e7f-a6a4-fb4ab8f98daa",
+      "created_at": "2026-06-07T15:44:51.936Z",
+      "updated_at": "2026-06-07T15:44:51.936Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "smart_reply",
+      "post_id": "8f8da675-af0a-4081-9fae-9f65968cda62",
+      "ai_response": [
+        {
+          "text": "Wow, that looks extremely clean and modern. Great work! 🎨",
+          "tone": "appreciative",
+          "emoji": "❤️"
+        },
+        {
+          "text": "Two months well spent! Will you be open-sourcing the design tokens?",
+          "tone": "inquisitive",
+          "emoji": "✨"
+        },
+        {
+          "text": "This makes UI consistency so much easier. Love the glassmorphism!",
+          "tone": "enthusiastic",
+          "emoji": "🌈"
+        }
+      ]
+    },
+    {
+      "id": "8a0a8fda-3471-48f8-9673-75f5cc59ea2b",
+      "created_at": "2026-06-07T15:49:00.038Z",
+      "updated_at": "2026-06-07T15:49:00.038Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "recommendation",
+      "ai_response": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      }
+    },
+    {
+      "id": "5aa12180-6d49-46d4-85d2-dd953e854132",
+      "created_at": "2026-06-07T16:11:00.420Z",
+      "updated_at": "2026-06-07T16:11:00.420Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "recommendation",
+      "ai_response": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      }
+    },
+    {
+      "id": "bd16fc8e-039f-4726-b11d-b8f8572967e5",
+      "created_at": "2026-06-07T16:32:20.203Z",
+      "updated_at": "2026-06-07T16:32:20.203Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "interaction_type": "recommendation",
+      "ai_response": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      }
+    }
+  ],
+  "trend_analysis": [
+    {
+      "id": "a5f116c9-d4fe-4b86-b7e5-6624ac51a929",
+      "created_at": "2026-05-24T18:27:27.651Z",
+      "updated_at": "2026-05-24T18:27:27.651Z",
+      "data": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      },
+      "timestamp": "2026-05-24T18:27:27.650Z"
+    },
+    {
+      "id": "a5464a2c-5996-48fc-89e6-0e8ce09198a8",
+      "created_at": "2026-05-24T18:36:24.381Z",
+      "updated_at": "2026-05-24T18:36:24.381Z",
+      "data": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      },
+      "timestamp": "2026-05-24T18:36:24.368Z"
+    },
+    {
+      "id": "3df4d757-e4f6-4921-a74b-2e8469221b67",
+      "created_at": "2026-05-24T18:56:18.702Z",
+      "updated_at": "2026-05-24T18:56:18.702Z",
+      "data": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      },
+      "timestamp": "2026-05-24T18:56:18.702Z"
+    },
+    {
+      "id": "2e95288f-936c-40c1-9983-19024a4647ea",
+      "created_at": "2026-05-25T04:50:53.967Z",
+      "updated_at": "2026-05-25T04:50:53.967Z",
+      "data": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      },
+      "timestamp": "2026-05-25T04:50:53.966Z"
+    },
+    {
+      "id": "2ea50b68-8398-4f66-9d8f-f14ef54eae47",
+      "created_at": "2026-06-01T05:21:19.027Z",
+      "updated_at": "2026-06-01T05:21:19.027Z",
+      "data": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      },
+      "timestamp": "2026-06-01T05:21:19.027Z"
+    },
+    {
+      "id": "6472ba9f-4ced-43ad-8841-9b86cd8ef429",
+      "created_at": "2026-06-01T05:35:34.622Z",
+      "updated_at": "2026-06-01T05:35:34.622Z",
+      "data": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      },
+      "timestamp": "2026-06-01T05:35:34.620Z"
+    },
+    {
+      "id": "a272f6ff-6679-44d2-bc92-f6f2f03e8da7",
+      "created_at": "2026-06-05T06:01:42.133Z",
+      "updated_at": "2026-06-05T06:01:42.133Z",
+      "data": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      },
+      "timestamp": "2026-06-05T06:01:42.131Z"
+    },
+    {
+      "id": "1cc0d2de-c528-48d9-9cab-5d4bc19d1bb6",
+      "created_at": "2026-06-05T07:27:41.848Z",
+      "updated_at": "2026-06-05T07:27:41.848Z",
+      "data": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      },
+      "timestamp": "2026-06-05T07:27:41.848Z"
+    },
+    {
+      "id": "cad3dcbe-e71d-49b8-9d6e-d3c98b099eed",
+      "created_at": "2026-06-07T15:10:43.077Z",
+      "updated_at": "2026-06-07T15:10:43.077Z",
+      "data": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      },
+      "timestamp": "2026-06-07T15:10:43.072Z"
+    },
+    {
+      "id": "bfecc06b-d6e4-498e-9a55-96774a0f7931",
+      "created_at": "2026-06-07T15:33:51.303Z",
+      "updated_at": "2026-06-07T15:33:51.304Z",
+      "data": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      },
+      "timestamp": "2026-06-07T15:33:51.303Z"
+    },
+    {
+      "id": "725004b7-158f-4453-bd66-0f97ce6fc104",
+      "created_at": "2026-06-07T16:11:00.437Z",
+      "updated_at": "2026-06-07T16:11:00.437Z",
+      "data": {
+        "recommendedCategories": [
+          "Technology",
+          "Software Engineering",
+          "UI/UX Design",
+          "AI & Machine Learning"
+        ],
+        "recommendedTags": [
+          "#React",
+          "#WebDev",
+          "#DesignSystem",
+          "#Claude",
+          "#TailwindCSS"
+        ],
+        "contentTypes": [
+          "posts",
+          "images"
+        ],
+        "reasoning": "User profiles indicate interest in tech stacks and developer operations."
+      },
+      "timestamp": "2026-06-07T16:11:00.437Z"
+    }
+  ],
+  "content_flags": [],
+  "reels": [
+    {
+      "id": "99231a35-763a-468d-8771-4a4c6f1bd098",
+      "created_at": "2026-05-24T18:21:02.767Z",
+      "updated_at": "2026-05-24T18:21:02.767Z",
+      "user_id": "fc15ab47-6a80-4ac3-b2ba-a3ad2e41fd44",
+      "caption": "Refactoring my AI agent workspace at 2 AM... ☕💻 #DevLife #Coding #AIAgent",
+      "likes_count": 324,
+      "comments_count": 58,
+      "music_name": "Sarah Chen • Original Audio",
+      "theme_color": "from-blue-500 to-purple-600"
+    },
+    {
+      "id": "3e432a5d-d097-4928-b94e-5041a2311c4d",
+      "created_at": "2026-05-24T18:21:02.768Z",
+      "updated_at": "2026-05-24T18:21:02.768Z",
+      "user_id": "9bfb56e8-c749-4ba0-aa06-0c41613ec789",
+      "caption": "Why WebAssembly compiles are 10x faster than traditional JS... ⚙️🔥 #Rust #Wasm #WebDev",
+      "likes_count": 852,
+      "comments_count": 142,
+      "music_name": "Dev Daily • Coding Beats",
+      "theme_color": "from-purple-600 to-pink-500"
+    },
+    {
+      "id": "6f3f5c51-3c8e-4732-a1b6-73c21dcfc779",
+      "created_at": "2026-05-24T18:21:02.769Z",
+      "updated_at": "2026-05-24T18:21:02.769Z",
+      "user_id": "914f59d1-b609-438c-aae4-032991f512c2",
+      "caption": "Behind the scenes: Crafting the perfect glassmorphic glowing border in Tailwind CSS 🎨✨ #UIUX #DesignSystem #WebDesign",
+      "likes_count": 489,
+      "comments_count": 73,
+      "music_name": "Alex Rivera • Synthwave Loop",
+      "theme_color": "from-pink-500 to-blue-500"
+    }
+  ],
+  "pose_templates": [
+    {
+      "id": "fa0d7af3-3643-43ab-8088-16a943ddf15e",
+      "created_at": "2026-06-05T08:08:20.459Z",
+      "updated_at": "2026-06-05T08:08:20.459Z",
+      "name": "Bicep Flex",
+      "category": "Gym",
+      "imageUrl": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=400",
+      "landmarkData": {
+        "left_shoulder": {
+          "x": 0.35,
+          "y": 0.35
+        },
+        "right_shoulder": {
+          "x": 0.65,
+          "y": 0.35
+        },
+        "left_elbow": {
+          "x": 0.2,
+          "y": 0.25
+        },
+        "right_elbow": {
+          "x": 0.8,
+          "y": 0.25
+        },
+        "left_wrist": {
+          "x": 0.22,
+          "y": 0.12
+        },
+        "right_wrist": {
+          "x": 0.78,
+          "y": 0.12
+        },
+        "left_hip": {
+          "x": 0.4,
+          "y": 0.7
+        },
+        "right_hip": {
+          "x": 0.6,
+          "y": 0.7
+        }
+      },
+      "difficulty": "Beginner"
+    },
+    {
+      "id": "9ed4955f-b50d-4b92-8cae-44aa65e976b6",
+      "created_at": "2026-06-05T08:08:20.461Z",
+      "updated_at": "2026-06-05T08:08:20.461Z",
+      "name": "Looking Away",
+      "category": "Travel",
+      "imageUrl": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=400",
+      "landmarkData": {
+        "left_shoulder": {
+          "x": 0.35,
+          "y": 0.4
+        },
+        "right_shoulder": {
+          "x": 0.65,
+          "y": 0.4
+        },
+        "left_elbow": {
+          "x": 0.3,
+          "y": 0.65
+        },
+        "right_elbow": {
+          "x": 0.7,
+          "y": 0.65
+        },
+        "left_wrist": {
+          "x": 0.3,
+          "y": 0.8
+        },
+        "right_wrist": {
+          "x": 0.7,
+          "y": 0.8
+        },
+        "left_hip": {
+          "x": 0.4,
+          "y": 0.75
+        },
+        "right_hip": {
+          "x": 0.6,
+          "y": 0.75
+        }
+      },
+      "difficulty": "Beginner"
+    },
+    {
+      "id": "7b38fed5-8c55-41f3-ae02-179d85ab37d2",
+      "created_at": "2026-06-05T08:08:20.463Z",
+      "updated_at": "2026-06-05T08:08:20.463Z",
+      "name": "Model Lean",
+      "category": "Fashion",
+      "imageUrl": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=400",
+      "landmarkData": {
+        "left_shoulder": {
+          "x": 0.32,
+          "y": 0.38
+        },
+        "right_shoulder": {
+          "x": 0.68,
+          "y": 0.38
+        },
+        "left_elbow": {
+          "x": 0.25,
+          "y": 0.55
+        },
+        "right_elbow": {
+          "x": 0.78,
+          "y": 0.5
+        },
+        "left_wrist": {
+          "x": 0.32,
+          "y": 0.65
+        },
+        "right_wrist": {
+          "x": 0.78,
+          "y": 0.65
+        },
+        "left_hip": {
+          "x": 0.38,
+          "y": 0.72
+        },
+        "right_hip": {
+          "x": 0.62,
+          "y": 0.72
+        }
+      },
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": "caf2bc0f-eb36-4cff-95d1-5d045349b5d0",
+      "created_at": "2026-06-05T08:08:20.466Z",
+      "updated_at": "2026-06-05T08:08:20.466Z",
+      "name": "Peace Selfie",
+      "category": "Selfie",
+      "imageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+      "landmarkData": {
+        "left_shoulder": {
+          "x": 0.25,
+          "y": 0.55
+        },
+        "right_shoulder": {
+          "x": 0.75,
+          "y": 0.55
+        },
+        "left_elbow": {
+          "x": 0.15,
+          "y": 0.75
+        },
+        "right_elbow": {
+          "x": 0.85,
+          "y": 0.4
+        },
+        "left_wrist": {
+          "x": 0.2,
+          "y": 0.9
+        },
+        "right_wrist": {
+          "x": 0.75,
+          "y": 0.2
+        },
+        "left_hip": {
+          "x": 0.35,
+          "y": 0.95
+        },
+        "right_hip": {
+          "x": 0.65,
+          "y": 0.95
+        }
+      },
+      "difficulty": "Beginner"
+    },
+    {
+      "id": "f8e3ae3f-1420-4cbd-900a-fe70c0d1c9e2",
+      "created_at": "2026-06-05T08:08:20.468Z",
+      "updated_at": "2026-06-05T08:08:20.468Z",
+      "name": "Presenter Pose",
+      "category": "Professional",
+      "imageUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400",
+      "landmarkData": {
+        "left_shoulder": {
+          "x": 0.35,
+          "y": 0.35
+        },
+        "right_shoulder": {
+          "x": 0.65,
+          "y": 0.35
+        },
+        "left_elbow": {
+          "x": 0.25,
+          "y": 0.55
+        },
+        "right_elbow": {
+          "x": 0.8,
+          "y": 0.5
+        },
+        "left_wrist": {
+          "x": 0.3,
+          "y": 0.7
+        },
+        "right_wrist": {
+          "x": 0.9,
+          "y": 0.4
+        },
+        "left_hip": {
+          "x": 0.4,
+          "y": 0.7
+        },
+        "right_hip": {
+          "x": 0.6,
+          "y": 0.7
+        }
+      },
+      "difficulty": "Intermediate"
+    }
+  ]
+}
