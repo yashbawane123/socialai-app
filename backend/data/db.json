@@ -64,6 +64,19 @@
       "profile_picture_url": "👩‍🔬",
       "is_verified": false,
       "is_public": true
+    },
+    {
+      "id": "a08b2e1e-6020-4ddd-b1fe-cafd063d787d",
+      "created_at": "2026-06-08T06:38:24.380Z",
+      "updated_at": "2026-06-08T06:38:24.382Z",
+      "username": "testuser",
+      "email": "test@example.com",
+      "password_hash": "$2a$10$W8msMEMmSITSCbTnUvmyy.oJ1TkdtoDFfEPf.GgWZ80F03ZrQ0Pr.",
+      "full_name": "testuser",
+      "bio": "",
+      "profile_picture_url": "😊",
+      "is_verified": false,
+      "is_public": true
     }
   ],
   "posts": [
